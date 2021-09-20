@@ -1,8 +1,3 @@
-"""
-***참고***
-map : map(지정함수,요소) 리스트의 요소를 지정된 함수로 처리 
-"""
-
 n,k=map(int,input().split())
 num=[int(input()) for i in range(n)]
 
